@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vuepress dev docs --temp .temp",
     "build": "vuepress build docs",
-    "test": "?"
+    "test": "?",
+    "deploy": "bash deploy.sh"
   },
   "author": "ice",
   "license": "ISC",

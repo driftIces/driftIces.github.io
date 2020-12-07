@@ -1,6 +1,7 @@
 module.exports = {
   title: '游鸟驿站',
   description: '方生方死，方死方生。',
+  base:'/driftIces.github.io/',
   theme: 'reco',
   themeConfig: {
     type: 'blog',

@@ -19,7 +19,7 @@ export const siteData = {
       },
       "regularPath": "/",
       "relativePath": "README.md",
-      "key": "v-a0e1e8ae",
+      "key": "v-f00ed294",
       "path": "/"
     },
     {
@@ -30,8 +30,15 @@ export const siteData = {
       },
       "regularPath": "/guide/",
       "relativePath": "guide/README.md",
-      "key": "v-929cac88",
+      "key": "v-7aca0949",
       "path": "/guide/"
+    },
+    {
+      "frontmatter": {},
+      "regularPath": "/config.html",
+      "relativePath": "config.md",
+      "key": "v-88edbb66",
+      "path": "/config.html"
     },
     {
       "title": "web前端基础面试题",
@@ -49,7 +56,7 @@ export const siteData = {
       },
       "regularPath": "/guide/interview_questions.html",
       "relativePath": "guide/interview_questions.md",
-      "key": "v-020e9ff6",
+      "key": "v-a70016d0",
       "path": "/guide/interview_questions.html",
       "headers": [
         {
@@ -123,13 +130,6 @@ export const siteData = {
           "slug": "对前端工程师这个职位你是怎么样理解的"
         }
       ]
-    },
-    {
-      "frontmatter": {},
-      "regularPath": "/config.html",
-      "relativePath": "config.md",
-      "key": "v-327bb10c",
-      "path": "/config.html"
     },
     {
       "frontmatter": {

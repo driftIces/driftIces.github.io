@@ -1,2 +1,2 @@
-import "E:\\Vuecli3\\flameIce\\docs\\.vuepress\\enhanceApp.js"
+import "E:\\git\\driftIces.github.io\\docs\\.vuepress\\enhanceApp.js"
 export default {}

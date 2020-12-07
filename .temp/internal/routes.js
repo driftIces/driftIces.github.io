@@ -4,16 +4,16 @@
 
 import { injectComponentOption, ensureAsyncComponentsLoaded } from '@app/util'
 import rootMixins from '@internal/root-mixins'
-import GlobalLayout from "E:\\Vuecli3\\flameIce\\node_modules\\@vuepress\\core\\lib\\client\\components\\GlobalLayout.vue"
+import GlobalLayout from "E:\\git\\driftIces.github.io\\node_modules\\@vuepress\\core\\lib\\client\\components\\GlobalLayout.vue"
 
 injectComponentOption(GlobalLayout, 'mixins', rootMixins)
 export const routes = [
   {
-    name: "v-a0e1e8ae",
+    name: "v-f00ed294",
     path: "/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-a0e1e8ae").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-f00ed294").then(next)
     },
   },
   {
@@ -21,11 +21,11 @@ export const routes = [
     redirect: "/"
   },
   {
-    name: "v-929cac88",
+    name: "v-7aca0949",
     path: "/guide/",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-929cac88").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-7aca0949").then(next)
     },
   },
   {
@@ -33,19 +33,19 @@ export const routes = [
     redirect: "/guide/"
   },
   {
-    name: "v-020e9ff6",
-    path: "/guide/interview_questions.html",
-    component: GlobalLayout,
-    beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-020e9ff6").then(next)
-    },
-  },
-  {
-    name: "v-327bb10c",
+    name: "v-88edbb66",
     path: "/config.html",
     component: GlobalLayout,
     beforeEnter: (to, from, next) => {
-      ensureAsyncComponentsLoaded("Layout", "v-327bb10c").then(next)
+      ensureAsyncComponentsLoaded("Layout", "v-88edbb66").then(next)
+    },
+  },
+  {
+    name: "v-a70016d0",
+    path: "/guide/interview_questions.html",
+    component: GlobalLayout,
+    beforeEnter: (to, from, next) => {
+      ensureAsyncComponentsLoaded("Layout", "v-a70016d0").then(next)
     },
   },
   {

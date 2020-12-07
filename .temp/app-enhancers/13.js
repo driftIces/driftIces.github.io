@@ -1,1 +1,1 @@
-export { default } from "E:\\Vuecli3\\flameIce\\node_modules\\vuepress-plugin-go-top\\bin\\enhanceAppFile.js"
+export { default } from "E:\\git\\driftIces.github.io\\node_modules\\vuepress-plugin-go-top\\bin\\enhanceAppFile.js"

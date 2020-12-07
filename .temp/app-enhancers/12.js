@@ -1,0 +1,1 @@
+export { default } from "E:\\Vuecli3\\flameIce\\node_modules\\vuepress-plugin-ribbon\\bin\\enhanceAppFile.js"
